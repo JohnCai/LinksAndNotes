@@ -1,0 +1,8 @@
+﻿++ Todo
+
+todo: http://www.lostechies.com/blogs/chad_myers/archive/2009/06/18/going-controller-less-in-mvc-the-way-fowler-meant-it.aspx
+todo: http://www.lostechies.com/blogs/jimmy_bogard/archive/2009/12/03/persistence-model-and-domain-anemia.aspx
+todo: http://blog.fohjin.com/blog/2009/11/12/CQRS_a_la_Greg_Young
+
+http://msdn.microsoft.com/en-us/azure/netservices.aspx
+http://www.codeplex.com/azureissuetracker

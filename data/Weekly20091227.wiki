@@ -1,0 +1,5 @@
+﻿++ Weekly20091227
+
+* http://www.scrumalliance.org/articles/123-top-ten-organizational-impediments *
+* http://cwd.dhemery.com/2009/11/wmaat/ Writing Maintainable Automated Acceptance Tests 
+* http://www.scottberkun.com/blog/2009/letter-to-micromanagers/ *

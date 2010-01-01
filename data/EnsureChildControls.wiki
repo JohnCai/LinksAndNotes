@@ -1,0 +1,3 @@
+﻿++ Ensure Child Controls
+
+* _adapter.CreateChildControls() or this.CreateChildControls()

@@ -1,0 +1,3 @@
+﻿++ Session-per-request-with-detached-objects
+
+Once persistent objects are considered detached during user think-time and have to be reattached to a new Session after they have been modified. 

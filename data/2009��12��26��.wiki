@@ -1,0 +1,12 @@
+﻿++ 2009年12月26日
+
+* http://tirania.org/blog/archive/2009/Nov-23.html  Silverlight: Universal GUI tookkit.
+* 
+* http://blogs.msdn.com/saraford/archive/2009/03/16/how-i-learned-to-program-manage-an-agile-team-after-6-years-of-waterfall.aspx
+* http://blogs.msdn.com/saraford/archive/2009/12/17/looking-for-last-minute-gift-idea-buy-the-art-of-community-book-by-jono-bacon.aspx
+* 
+* http://davybrion.com/blog/2009/01/abstracting-request-state/
+* http://davybrion.com/blog/2009/12/using-nhibernate-in-your-service-layer/
+* 
+* http://www.richardlawrence.info/2009/12/21/growing-done-how-to-make-the-definition-of-done-work-for-your-team/
+* http://jamesshore.com/Blog/Use-Risk-Management-to-Make-Solid-Commitments.html

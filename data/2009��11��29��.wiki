@@ -1,0 +1,15 @@
+﻿++ 2009年11月29日
+
++++ Hibernate Sessions and transactions
+* Unit of Work
+    A particular unit of work is grouping data access operations. We usually refer to the Hibernate Session as a unit of work because the scope of a Session is exactly that, in almost all cases. (The Session is also many other things, for example, a cache and a primary API.) To begin a unit of work you open a Session. To end a unit of work you close a Session. Usually you also flush a Session at the end of a unit of work to execute the SQL DML operations (UPDATE, INSERT, DELETE) that synchronize the in-memory Session state with the database.
+* Transactions
+    Transactions also group data access operations, in fact, every SQL statement, be it queries or DML, has to execute inside a database transaction. 
+    One approach is the auto-commit mode, where every single SQL statement is wrapped in a very short transaction. This mode is never appropriate for an application, but only for ad-hoc execution of SQL with an operator console.
+* The scope of a unit of work
+    A single Hibernate Session might have the same scope as a single database transaction. 
+    * This is the most common programming model used for the [Session-per-request] implementation pattern. 
+        *Do never use* the [Session-per-operation] anti-pattern! 
+    * Another programming model is that of long Conversations, e.g. an application that implements a multi-step dialog, for example a wizard dialog, to interact with the user in several request/response cycles.
+        * One way to implement this is the [Session-per-request-with-detached-objects] pattern.
+        * The [Session-per-conversation] pattern is however recommended.

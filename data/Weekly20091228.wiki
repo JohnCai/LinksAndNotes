@@ -1,0 +1,5 @@
+﻿++ Weekly20091228
+
+* http://clojure.org/state about clojure/Functional Programming/Concurrency
+* http://en.wikipedia.org/wiki/Actor_model
+* http://en.wikipedia.org/wiki/Erlang_%28programming_language%29

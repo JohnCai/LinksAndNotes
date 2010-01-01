@@ -1,0 +1,11 @@
+﻿++ 2009年11月1日
+
++++ 将Javascript作为编译目标： Clamato， GWT， Smalltalk， Python， Scheme
+* Clamato：能编译成Javascript的Smalltalk方言
+* GWT： Google Wave客户端是其案例之一
+* pyjamas：Python的Javascript编译器
+* Moby Scheme
+* ScriptSharp
+* fswebtools：用F#写同步的代码，生成异步调用的JS。 www.codeplex.com/fswebtools
+
++++ [Boson]借鉴了[Rake]和[Thor]的成功经验，同时做了一些创新

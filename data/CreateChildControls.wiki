@@ -1,0 +1,12 @@
+﻿++ Create Child Controls
+
++++ virtual method of Control
++++ CompositeDataBoundControl overrides this method
+    * EnsureDataBound()
+    * CreateChildControls(DummyDataSource, false)  //this is an abstract method
+    * ClearChildViewState()
++++ 3 derived types of CompositeDataBoundControl
+    * DetailsView //override CtreateChildControls(DummyDataSource, false) to call DataBind()
+    * FormView
+    * GridView
+    

@@ -1,0 +1,3 @@
+﻿++ Session-per-request
+
+A single Session and a single database transaction implement the processing of a particular request event (for example, a Http request in a web application). 

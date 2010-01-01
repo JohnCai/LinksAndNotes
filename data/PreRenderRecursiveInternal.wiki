@@ -1,0 +1,4 @@
+﻿++ Pre Render Recursive Internal
+
+* EnsureChildControls() //DataBinding Occurs here!!!
+* _adapter.OnPreRender() or this.OnPreRender()

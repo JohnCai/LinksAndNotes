@@ -1,0 +1,45 @@
+﻿++ Daily20091226
+
++++ ProcessRequestMain()
+* PerformPreInit() --> PreInit()
+
+* InitRecursive() --> Init()
+
+* OnInitComoplete()
+
+* if (IsPostBack)
+    LoadAllState() //loads view state recursively
+    ProcessPostData() //process postback data
+    
+* PreLoad()
+
+* LoadRecursive() --> OnLoad()
+
+* if (IsPostBack)
+    ProcessPostData() //Second Try
+    RaiseChangeEvents()
+    RaisePostBackEvent()
+    
+* OnLoadComplete
+
+* if (IsPostBack && IsCallback)
+    PrepareCallback()
+* else if (! IsCrossPagePostBack)
+    PreRenderRecursiveInternal()
+
+* ExecuteRegisteredAsyncTasks()
+
+* AfterAsyncPoint:
+
+* if (IsCallback)
+    RenderCallback()
+    
+* else if (! IsCrossPagePostBack)
+    PerformPreRenderComplete()
+    SaveAllState()
+    OnSaveStateComplete()
+    ExportWebPart() or RenderControl(CreateHtmlTextWriter(this.Response.Output))
+    
++++ links about Web Page life cycle:
+* http://msdn.microsoft.com/en-us/library/ms178472.aspx
+* http://www.aspfree.com/c/a/ASP.NET/ASP.NET-Life-Cycle-and-Best-Practices/

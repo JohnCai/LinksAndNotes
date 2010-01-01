@@ -1,0 +1,4 @@
+﻿++ Session-per-conversation
+
+* In this case a single Session has a bigger scope than a single database transaction and it might span several database transactions. Each request event is processed in a single database transaction, but flushing of the Session would be delayed until the end of the conversation and the last database transaction, to make the conversation atomic. 
+* The Session is held in disconnected state, with no open database connection, during user think-time. Hibernate's automatic optimistic concurrency control (with versioning) is used to provide conversation isolation.

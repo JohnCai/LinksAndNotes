@@ -1,0 +1,32 @@
+﻿++ Daily20100101
+
++++ Git For Windows Developers
+
+++++ preparation
+* install msysgit
+* git --version
+* git config --global user.email my@email.com
+* git config --global user.name "John Cai"
+* ssh-keygen -C "your@email.com" -t rsa
+++++ enter your working folder
+* git init
+* git status
+* ls -al
+* touch .gitignore
+* git add .
+* git commit -m "initial commit"
+* git log
+
+++++ github
+* copy ssh public key to github
+* git branch
+* git remote add linkorigin git@github.com/../...git
+
+* git pull git@github.com/.../...git master
+* git checkout branch1
+* git add..
+* git commit
+* git checkout master
+* git pull branch1 master
+* git remote
+* git push longgong master
