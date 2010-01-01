@@ -1,3 +1,4 @@
 ﻿++ Weekly20100101
 
 * http://www.lostechies.com/blogs/jason_meridth/archive/2009/06/01/git-for-windows-developers-git-series-part-1.aspx
+* http://code-magazine.com/Article.aspx?quickid=0811051  speed up project delivery with repeatability
