@@ -1,0 +1,3 @@
+﻿++ Links20100111
+
+* http://blog.objectmentor.com/articles/2010/01/04/ui-test-automation-tools-are-snake-oil also read the comments

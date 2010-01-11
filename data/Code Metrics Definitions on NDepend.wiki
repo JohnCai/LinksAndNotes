@@ -1,0 +1,3 @@
+﻿++ Code Metrics Definitions on N Depend
+
+see http://www.ndepend.com/Metrics.aspx

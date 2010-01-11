@@ -1,0 +1,6 @@
+﻿++ Spark View Engine
+
+A view engine for ASP.NET MVC and castle project MonoRail frameworks. The idea is to allow the html to dominate the flow and the code to fit seamlessly.
+
+
+http://sparkviewengine.com/

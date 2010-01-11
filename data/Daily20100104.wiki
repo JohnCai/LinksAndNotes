@@ -1,0 +1,7 @@
+﻿++ Daily20100104
+
++++ to set up MediaWiki
+* install apache2.2 with php5 http://www.reaper-x.com/2007/09/24/installing-and-setting-up-apache-22-series-with-php-5-on-windows/
+* after install MySql, modify c:\Windows\php.ini to uncomment the "extension=php_mysql.dll" and restart the apache.
+* http://www.mediawiki.org/wiki/Manual:Installing_MediaWiki#Run_the_installation_script
+* http://www.php-mysql-tutorial.com/wikis/php-tutorial/installing-php-and-mysql.aspx

@@ -1,0 +1,9 @@
+﻿++ Daily20100102
+
++++ learning Fitnesse/Slim
+* http://schuchert.wikispaces.com/FitNesse.Tutorials.CSharp.Slim.EachTable
+* http://schuchert.wikispaces.com/FitNesse.Tutorials.0
+* http://schuchert.wikispaces.com/FitNesse.Tutorials.0.CSharp
+* http://blog.objectmentor.com/articles/2009/06/06/calling-c-and-fitnesse-users
+* http://fitnesse.org/FrontPage.VideoTutorials
+* http://fitnesse.org/FitNesse.UserGuide.SliM.DecisionTable

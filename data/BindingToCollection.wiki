@@ -1,0 +1,21 @@
+﻿++ Binding To Collection
+
+    * ItemsControl.Items: ItemsCollection inherits CollectionView inherits ICollectioinView
+    * ItemsControl.ItemsSource: Items.ItemsSource
+    * CollectionViewSource: XAML proxy of a CollectionView
++++ three ways to create a view:
+    1 use CollectionViewSource
+        <Window.Resources>
+            <CollectionViewSource Source = "{...}" x:key = "ABC">                
+            </CollectionViewSource>
+        </Window.Resources>
+        
+        <ListBox ItemSource = "{Binding Source = {StaticResource ABC}}">
+    2 use the shared default one by CollectionViewSource.GetDefaultView(obj)
+    3 use CollectionView(with Filter property)
+    
+    * default collection view for different collection
+        *Source Collection Type *         Default CollectionView                      Notes
+        IEnumerable                     EnumerableCollectionView(internal class)    Can't group items
+        IList                           ListCollectionView                          fastet
+        IBindingList                    BindingListCollectionView                   

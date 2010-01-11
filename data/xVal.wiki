@@ -1,0 +1,13 @@
+﻿++ x Val
+
+a validation framework for ASP.NET MVC applications
++++ Features
+* Define your validation rules using attributes on model properties
+* Designed to fit into ASP.NET MVC conventions
+* Use your choice of server-side validation framework. Out of the box, xVal lets you use .NET 3.5's built in DataAnnotations classes or CastleValidator.If you want to use something different, you can create your own provider just by implementing \IRulesProvider.
+* Supports localized error messages
+* Add custom validation logic
+
++++ links
+* http://xval.codeplex.com
+* http://blog.codeville.net/2009/01/10/xval-a-validation-framework-for-aspnet-mvc/

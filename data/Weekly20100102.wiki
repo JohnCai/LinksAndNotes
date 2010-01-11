@@ -1,0 +1,14 @@
+﻿++ Weekly20100102
+
+* http://blog.mountaingoatsoftware.com/the-fallacy-of-one-throat-to-choke
+
+* http://blog.mountaingoatsoftware.com/the-forgotten-layer-of-the-test-automation-pyramid *
+* http://blog.objectmentor.com/articles/2009/09/29/ruining-your-test-automation-strategy *
+
+* http://blog.objectmentor.com/articles/2009/09/11/one-thing-extract-till-you-drop
+
+* http://blog.mountaingoatsoftware.com/reduce-manual-test-techcnical-debt
+
+* http://blog.objectmentor.com/articles/2009/12/07/writing-maintainable-automated-acceptance-tests
+
+* http://leadinganswers.typepad.com/leading_answers/2010/01/six-project-trends-every-pm-should-be-aware-of.html

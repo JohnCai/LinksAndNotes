@@ -1,0 +1,13 @@
+﻿++ Data Error Validation Rule
+
+built-in Valiation rule that checks for error that are raised by the IDataErrorsInfo of the source object.
+
+if an error is raised binding engine creates a validationError with the error and adds it to the Validation.Errors collection of the bound elements
+
+Source code of \DataErrorValiationRule:
+    1, get Domain object
+    2, get \DomainObject[\Property], that is : IDataErrorsInfo.this[\property]
+    3, if !string.\IsNullOrEmpty(this(property)) return new ValidationResult(false, this(property))
+    
+    
+All rules are returned by BindingBase.GetValidationRule()

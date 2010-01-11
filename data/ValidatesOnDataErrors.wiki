@@ -1,0 +1,3 @@
+﻿++ Validates On Data Errors
+
+set \ValidatesOnDataErrors to true to include the DataErrorValidationRule.

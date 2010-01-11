@@ -1,0 +1,8 @@
+﻿++ How TDD and Pairing Increase Production
+
+If you want more production, look first to raising your internal quality:
+
+* Because internal quality and external quality are not the same things.
+* Because the biggest single determinant in today’s production is the quality of yesterday’s production.
+* Because typing is not now and never has been the bottleneck in writing code.
+* http://anarchycreek.com/2009/05/26/how-tdd-and-pairing-increase-production/

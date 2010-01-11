@@ -1,0 +1,21 @@
+﻿++ WPF vs Silverlight
+
+* Dependency properties are a key component of both platforms, with PropertyMetadata being used to back properties instead of normal fields. While Silverlight only offers this one class, WPF has some subtypes.
+
+    * UIPropertyMetadata adds a flag that determine “whether animations should be disabled on the dependency property where the containing metadata instance is applied.”
+    * FrameworkPropertyMetadata adds flags to indicate the property affects the pipeline including control arrangement, measuring, rendering. It can also indicate whether or not data binding is allowed on the property and what type to default to. Since Silverlight doesn’t support this class, all data binding defaults to one-way.
+
+* Silverlight doesn’t support tunneling events. Both platforms support direct and bubbling events.
+
+* WPF supports several types of triggers. A *basic trigger* attaches to a dependency property and automatically applies style changes when the trigger condition is met. In addition to basic triggers, WPF also supports *triggers that respond to routed events* and *triggers that work with data-binding*. Instead of triggers, Silverlight uses a technology called *Visual State Manager* instead. WPF doesn’t currently offer this, but will in WPF 4.0.
+
+* Silverlight only supports a few markup extensions. In addition to the shared StaticResource, Binding, and TemplateBinding extensions, WPF adds DynamicResource, RelativeSource, x:Type, x:Static, and x:Array.
+
+* There are numerous keyboard and mouse events only available in WPF. As there are far too many to list here, we will defer to the full text.
+
+* UIElement class and the IInputElement interface. When a control is disabled, WPF uses this to disable all of the child controls. Silverlight doesn’t offer this behavior, so developers have to walk the control tree manually.
+
+* On the communication side, WCF in Silverlight is limited to BasicHttpBinding and PollingDuplexHttpBinding. WPF, of course, supports all of the available bindings.
+
+* Finally, printing is completely different in WPF and Silverlight. WPF allows the direct printing of visual trees while Silverlight relies on the browser.
+* see http://wpfslguidance.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=28278

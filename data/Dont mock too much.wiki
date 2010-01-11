@@ -1,0 +1,7 @@
+﻿++ Dont mock too much
+
+* everything in your system is either a [Service], [Entity] or [Value]. ---[DDD Evans]
+* Never mock values:
+* sometimes mock entities: more likely you want to mock how you got the entity,eg: [Repository]
+* mock services freely:
+* see http://www.jbrains.ca/permalink/90

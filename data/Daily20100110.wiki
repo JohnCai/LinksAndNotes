@@ -1,0 +1,9 @@
+﻿++ Daily20100110
+
++++ WPF Databinding
+* BindingValidation
+* BindingToCollection
+* [WPF vs Silverlight]
+* Silverlight Links
+    * http://silverlight.net/getstarted/
+    * http://blogs.msdn.com/brada/default.aspx

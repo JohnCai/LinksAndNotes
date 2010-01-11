@@ -1,0 +1,4 @@
+﻿++ Binding Validation
+
+* Binding.ValidatesOnDataErrors
+* Binding.Validates

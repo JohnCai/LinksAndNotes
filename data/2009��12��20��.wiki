@@ -1,5 +1,7 @@
 ﻿++ 2009年12月20日
 
+* http://c2.com/cgi-bin/wiki?FirstLawOfProgramming
+* http://msdn.microsoft.com/en-us/magazine/ee819135.aspx *using agile techniques to pay back technical bebt*
 * http://blog.slatner.com/2009/11/11/PrimeFactorsKataInC.aspx
 * http://www.richardlawrence.info/2009/10/28/patterns-for-splitting-user-stories/
 * http://www.patrickgannon.net/archive/2008/10/23/bdd-style-feature-tests-using-ironruby-and-rspeccucumber.aspx

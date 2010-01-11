@@ -1,0 +1,7 @@
+﻿++ notes20091203
+
+* [xVal]
+* [How TDD and Pairing Increase Production]
+* [Code Metrics Definitions on NDepend]
+* [A Sharp Project Case Study] S#arp
+* [Dont mock too much]

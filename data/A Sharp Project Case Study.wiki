@@ -1,0 +1,12 @@
+﻿++ A Sharp Project Case Study
+* Integrated other OSS projects into the solution:
+  * [N2CMS]
+  * [Spark View Engine]
+  * [xVal] Validation Framework
+  * AutoMapper (for entity / view model mapping)
+  * PostSharp (for cross cutting concerns - logging, performance counters, caching)
+  * MBUnit / [Gallio] for our BDD Framework
+  * Solr & SolrNet for Search and Faceted Navigation
+
+* see http://devlicio.us/blogs/billy_mccafferty/archive/2009/10/08/a-s-arp-project-case-study.aspx
+

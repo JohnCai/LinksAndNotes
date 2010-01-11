@@ -1,6 +1,10 @@
 ﻿++ Daily Notes
 
+* [notes20091203]
 * [2009年11月1日]
-* [2009年11月29日]
-* [Daily20091226]
-* [Daily20100101]
+* [2009年11月29日] Unit of work/ Session in Hibernate
+* [Daily20091226] webpage lifecycle
+* [Daily20100101] Git
+* [Daily20100102] Fitnesse/Slim
+* [Daily20100104] Media Wiki
+* [Daily20100110] WPF binding validation
