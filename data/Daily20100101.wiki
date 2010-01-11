@@ -21,9 +21,10 @@
 * copy ssh public key to github
 * git branch
 * git remote add linkorigin git@github.com/../...git
-
-* git pull git@github.com/.../...git master
-* git checkout branch1
+* git push linkorigin master                                    # push .. with ..
+* git pull git@github.com/.../...git master                     # pull Remote Source merged into master
+* git pull . branch1                                            # no remote source, but merge branch1 into current branch
+* git checkout -b branch1
 * git add..
 * git commit
 * git checkout master

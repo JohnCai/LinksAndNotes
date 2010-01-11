@@ -3,6 +3,7 @@ data_dir = data
 
 [main]
 footnotes_as_wikiwords = False
+tree_expandednodes_rememberduration = 2
 last_wiki_word = Daily20100101
 hotkey_showhide_bywiki = 
 log_window_autoshow = Gray
@@ -10,12 +11,11 @@ export_default_dir =
 filestorage_identity_filenamemustmatch = False
 wiki_icon = 
 wiki_name = NotesAndLinks
-wikipagetitle_creationmode = 1
+tree_expandednodes_descriptorpathes_main = wikipage/NotesAndLinks,wikipage/WeeklyLinks;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/Daily20091226,wikipage/PreRenderRecursiveInternal;wikipage/NotesAndLinks,wikipage/DailyNotes;wikipage/NotesAndLinks,helpernode/main/view,todo/,todo/todo,todo/todo.http://www.lostechies.com/blogs/jimmy_bogard/archive/2009/12/03/persistence-model-and-domain-anemia.aspx;wikipage/NotesAndLinks,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/icon;wikipage/NotesAndLinks,helpernode/main/view,todo/,todo/todo,todo/todo.http://www.lostechies.com/blogs/chad_myers/archive/2009/06/18/going-controller-less-in-mvc-the-way-fowler-meant-it.aspx;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/Daily20100110,wikipage/BindingValidation;wikipage/NotesAndLinks,helpernode/main/view,todo/,todo/todo;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/Daily20091226,wikipage/PreRenderRecursiveInternal,wikipage/EnsureChildControls;wikipage/NotesAndLinks;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/notes20091203,wikipage/A Sharp Project Case Study;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/Daily20100110
 wikipagetitleprefix = ++
 wikipagetitle_fromlinktitle = False
 first_wiki_word = 
-tree_expandednodes_rememberduration = 2
-tree_expandednodes_descriptorpathes_main = wikipage/NotesAndLinks,wikipage/WeeklyLinks;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/Daily20091226,wikipage/PreRenderRecursiveInternal;wikipage/NotesAndLinks,wikipage/DailyNotes;wikipage/NotesAndLinks,helpernode/main/view,todo/,todo/todo,todo/todo.http://www.lostechies.com/blogs/jimmy_bogard/archive/2009/12/03/persistence-model-and-domain-anemia.aspx;wikipage/NotesAndLinks,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/icon;wikipage/NotesAndLinks,helpernode/main/view,todo/,todo/todo,todo/todo.http://www.lostechies.com/blogs/chad_myers/archive/2009/06/18/going-controller-less-in-mvc-the-way-fowler-meant-it.aspx;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/Daily20100110,wikipage/BindingValidation;wikipage/NotesAndLinks,helpernode/main/view,todo/,todo/todo;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/Daily20091226,wikipage/PreRenderRecursiveInternal,wikipage/EnsureChildControls;wikipage/NotesAndLinks;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/notes20091203,wikipage/A Sharp Project Case Study;wikipage/NotesAndLinks,wikipage/DailyNotes,wikipage/Daily20100110
+wikipagetitle_creationmode = 1
 tree_last_root_wiki_word = NotesAndLinks
 tree_force_scratchpad_visibility = True
 further_wiki_words = 
