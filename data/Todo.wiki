@@ -6,3 +6,5 @@ todo: http://blog.fohjin.com/blog/2009/11/12/CQRS_a_la_Greg_Young
 
 http://msdn.microsoft.com/en-us/azure/netservices.aspx
 http://www.codeplex.com/azureissuetracker
+
+MEF

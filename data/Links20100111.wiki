@@ -1,3 +1,10 @@
 ﻿++ Links20100111
 
 * http://blog.objectmentor.com/articles/2010/01/04/ui-test-automation-tools-are-snake-oil also read the comments
+* http://codebetter.com/blogs/rob.conery/archive/2009/12/15/using-git-as-a-backup-tool.aspx
+* http://blog.wekeroad.com/2009/11/23/deploying-a-web-application-with-git-and-ftp
+* 
+* https://gettingreal.37signals.com/toc.php getting real from 37signals
+* http://codebetter.com/blogs/jeremy.miller/archive/2008/10/23/our-opinions-on-the-asp-net-mvc-introducing-the-thunderdome-principle.aspx  why fubu mvc
+
+* http://devlicious.com/blogs/casey/archive/2009/12/18/what-is-the-difference-between-an-ioc-container-and-mef.aspx
