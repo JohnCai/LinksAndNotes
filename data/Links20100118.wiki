@@ -2,3 +2,5 @@
 
 * http://www.infoq.com/news/2010/01/agile-success
 * http://www.infoq.com/interviews/pixton-agile-leadership
+* http://www.perforce.com/perforce/papers/bestpractices.pdf  best practice for CM
+* tool: http://www.pdfmyurl.com/
