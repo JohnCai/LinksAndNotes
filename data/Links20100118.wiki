@@ -4,3 +4,5 @@
 * http://www.infoq.com/interviews/pixton-agile-leadership
 * http://www.perforce.com/perforce/papers/bestpractices.pdf  best practice for CM
 * tool: http://www.pdfmyurl.com/
+* architect: http://www.lostechies.com/blogs/derickbailey/archive/2009/12/22/understanding-the-application-controller-through-object-messaging-patterns.aspx
+* Scrum http://www.infoq.com/articles/cohn-chapter8  by Mike Cohn
