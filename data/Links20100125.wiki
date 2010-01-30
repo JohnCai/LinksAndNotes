@@ -1,0 +1,6 @@
+﻿++ Links20100125
+
+* http://codebetter.com/blogs/jeremy.miller/archive/2010/01/11/patterns-in-practice-a-retrospective.aspx
+* http://code-magazine.com/Article.aspx?quickid=0811051 speed up project delivery with repeatability.
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/01/26/context-and-best-practices.aspx
+* http://git.or.cz/course/svn.html from svn to git 

@@ -6,5 +6,15 @@ todo: http://blog.fohjin.com/blog/2009/11/12/CQRS_a_la_Greg_Young
 
 http://msdn.microsoft.com/en-us/azure/netservices.aspx
 http://www.codeplex.com/azureissuetracker
+http://weblogs.asp.net/scottgu/archive/2008/01/07/dynamic-linq-part-1-using-the-linq-dynamic-query-library.aspx
+http://code-magazine.com/article.aspx?quickid=0811051&page=4
 
 MEF
+
+Git in daily work
+Silverlight
+Build your own CAB
+Rake
+TeamCity
+FubuMVC
+BDD /story teller

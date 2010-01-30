@@ -6,3 +6,5 @@
 * tool: http://www.pdfmyurl.com/
 * architect: http://www.lostechies.com/blogs/derickbailey/archive/2009/12/22/understanding-the-application-controller-through-object-messaging-patterns.aspx
 * Scrum http://www.infoq.com/articles/cohn-chapter8  by Mike Cohn
+* http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm
+* http://www.infoq.com/cn/articles/failed-agile-adoption-reasons

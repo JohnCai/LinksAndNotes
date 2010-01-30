@@ -8,3 +8,4 @@
 * [Daily20100102] Fitnesse/Slim
 * [Daily20100104] Media Wiki
 * [Daily20100110] WPF binding validation
+* [Notes20100123] Ruby, Gem, Rake
