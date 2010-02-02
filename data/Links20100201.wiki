@@ -1,0 +1,6 @@
+﻿++ Links20100201
+
+* http://www.infoq.com/news/2010/01/ThoughtWorks-Technology-Radar Technology trends
+* http://www.nomachetejuggling.com/2009/02/21/i-love-pair-programming/
+* http://martinfowler.com/bliki/TechnicalDebtQuadrant.html
+* http://davybrion.com/blog/2010/01/dont-strive-for-perfection/
