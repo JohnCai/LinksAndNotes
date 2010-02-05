@@ -4,3 +4,4 @@
 * http://www.nomachetejuggling.com/2009/02/21/i-love-pair-programming/
 * http://martinfowler.com/bliki/TechnicalDebtQuadrant.html
 * http://davybrion.com/blog/2010/01/dont-strive-for-perfection/
+* http://www.infoq.com/articles/mysoa
