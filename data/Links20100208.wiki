@@ -1,0 +1,12 @@
+﻿++ Links20100208
+
+* http://apparch.codeplex.com/
+* http://caliburn.codeplex.com/  WPF and SL framework
+* http://www.lostechies.com/blogs/derickbailey/archive/2010/02/03/branch-per-feature-how-i-manage-subversion-with-git-branches.aspx
+* http://codebetter.com/blogs/ian_cooper/archive/2010/01/19/whither-alt-net.aspx
+* tools: http://ajax.dynatrace.com/pages/
+* http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd TDD
+* http://blog.objectmentor.com/articles/2010/02/01/software-on-the-cheap
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/01/28/evolutionary-architecture.aspx
+* http://www.infoq.com/interviews/manns-change-oopsla fearless change
+* http://www.computer.org/cms/Computer.org/ComputingNow/homepage/2010/0110/W_SW_PairProgramming.pdf

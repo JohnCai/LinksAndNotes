@@ -9,4 +9,5 @@
 * [Daily20100104] Media Wiki
 * [Daily20100110] WPF binding validation
 * [Notes20100123] Ruby, Gem, Rake
-* [Notes20100225] Sql for deadlock
+* [Notes20100125] Sql for deadlock
+* [Notes2010/02/11] fearless change
