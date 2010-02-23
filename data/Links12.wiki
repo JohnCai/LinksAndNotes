@@ -1,0 +1,9 @@
+﻿++ Links12
+
+* http://codebetter.com/blogs/jeremy.miller/archive/2006/05/25/145450.aspx why I do not use Stored Procedures
+* http://www.tonymarston.net/php-mysql/stored-procedures-are-evil.html Stored Procedures are EVIL
+* http://www.dafydd.net/archive/2010/eight-object-oriented-design-tips.html OO Tips
+* http://www.pivotaltracker.com/ Pivotal Tracker: Free Scrum Management Tool
+* http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterLargedotNETProjects.aspx Large build on project
+* http://keithelder.net/blog/archive/2007/02/01/Structuring-Solutions-in-Visual-Studio-and-Team-Foundation.aspx structuring solutions
+* http://www.infoq.com/articles/brown-are-you-a-software-architect are you a software architect?

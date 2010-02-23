@@ -10,3 +10,4 @@
 * http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/01/28/evolutionary-architecture.aspx
 * http://www.infoq.com/interviews/manns-change-oopsla fearless change
 * http://www.computer.org/cms/Computer.org/ComputingNow/homepage/2010/0110/W_SW_PairProgramming.pdf
+* 
