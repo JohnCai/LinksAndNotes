@@ -9,6 +9,10 @@ http://www.codeplex.com/azureissuetracker
 http://weblogs.asp.net/scottgu/archive/2008/01/07/dynamic-linq-part-1-using-the-linq-dynamic-query-library.aspx
 http://code-magazine.com/article.aspx?quickid=0811051&page=4
 
+http://users.rcn.com/jcoplien/Patterns/Top10OrgPatterns.html
+http://codebetter.com/blogs/gregyoung/archive/2010/02/16/cqrs-task-based-uis-event-sourcing-agh.aspx
+http://codebetter.com/blogs/gregyoung/archive/2010/02/13/cqrs-and-event-sourcing.aspx
+
 MEF
 
 Git in daily work
@@ -18,3 +22,7 @@ Rake
 TeamCity
 FubuMVC
 BDD /story teller
+
+JqGrid
+MVC
+ROR

@@ -1,0 +1,16 @@
+﻿++ Links13
+
++++ Agile/Scrum
+* http://martinfowler.com/bliki/ConversationalStories.html User Story: N in INVEST
+
++++ NoSQL
+* http://blogs.computerworld.com/15510/the_end_of_sql_and_relational_databases_part_1_of_3
+* http://blog.wekeroad.com/2010/02/06/nosql-a-practical-approach-part-1
+* http://ayende.com/Blog/archive/2010/02/22/slaying-relational-dragons.aspx
+
++++ Web
+* http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
+* http://codebetter.com/blogs/ian_cooper/archive/2010/01/26/mvc-or-webforms.aspx MVC or WebForms: It's more about client side vs server side
+
++++ Tools
+* http://www.sitepoint.com/blogs/2010/02/02/10-big-time-saving-tools-for-web-designers/ 10 cool tools for web designers.
