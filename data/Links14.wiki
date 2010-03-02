@@ -1,0 +1,10 @@
+﻿++ Links14
+
++++ Domain Model
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/02/03/strengthening-your-domain-a-primer.aspx
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/02/23/strengthening-your-domain-aggregate-construction.aspx
+* http://www.udidahan.com/2009/06/29/dont-create-aggregate-roots/
+
++++ DSL
+* http://martinfowler.com/dslwip/
+* http://www.infoq.com/presentations/domain-specific-languages

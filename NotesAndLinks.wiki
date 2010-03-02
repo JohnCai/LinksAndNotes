@@ -2,9 +2,9 @@
 data_dir = data
 
 [main]
+wikipagetitle_creationmode = 1
 footnotes_as_wikiwords = False
-tree_expandednodes_rememberduration = 2
-last_wiki_word = Todo
+last_wiki_word = Links14
 hotkey_showhide_bywiki = 
 log_window_autoshow = Gray
 export_default_dir = 
@@ -15,7 +15,7 @@ tree_expandednodes_descriptorpathes_main = wikipage/NotesAndLinks,wikipage/Weekl
 wikipagetitleprefix = ++
 wikipagetitle_fromlinktitle = False
 first_wiki_word = 
-wikipagetitle_creationmode = 1
+tree_expandednodes_rememberduration = 2
 tree_last_root_wiki_word = NotesAndLinks
 tree_force_scratchpad_visibility = True
 further_wiki_words = Weekly20100101;Daily20100101
