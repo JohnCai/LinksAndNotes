@@ -1,0 +1,8 @@
+﻿++ 站立会议
+
+    * Daily Scrum
+    * 简介
+    * 团队外的人可以参加，但尽量不要说话
+    * 不要再需要沟通的时候却等待站立会议，应该直接交谈。
+    * 不应该被个人支配，站立会议是平等的会议。
+    * 参考 Martin Fowler： It's Not Just Standing Up: Patterns for Daily Stand-up Meetings.

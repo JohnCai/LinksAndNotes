@@ -1,4 +1,5 @@
-﻿++ Links14
+﻿++ Links14 
+till 2010-03-07
 
 +++ Domain Model
 * http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/02/03/strengthening-your-domain-a-primer.aspx
@@ -8,3 +9,24 @@
 +++ DSL
 * http://martinfowler.com/dslwip/
 * http://www.infoq.com/presentations/domain-specific-languages
+
++++ Scrum & Agile
+* http://blog.mountaingoatsoftware.com/separate-estimating-from-committing
+* http://www.geekinasuit.com/2010/02/shu-ha-ri-not-harmful-it-misunderstood.html  shu-ha-ri
+* http://jamesshore.com/Blog/The-Decline-and-Fall-of-Agile.html It's human nature to only do the stuff that's familiar and fun, and that's what has happened with Agile
+
++++ Jquery
+* http://elegantcode.com/wp-content/uploads/2010/03/Jquery-Validator-Cheat-sheet.pdf jquery validator
+
++++ CQRS, Event Sourcing, No Sql, DDD
+* http://martinfowler.com/eaaDev/EventSourcing.html
+* http://dddstepbystep.com/ with E-Books
+* http://blog.fohjin.com/blog/2009/11/12/CQRS_a_la_Greg_Young
+
++++ discussion on Acceptance Testing
+* http://jamesshore.com/Blog/The-Problems-With-Acceptance-Testing.html
+* http://gojko.net/2010/03/01/are-tools-necessary-for-acceptance-testing-or-are-they-just-evil/
+* http://blog.gdinwiddie.com/2010/03/01/the-reality-of-automated-acceptance-testing/
+* http://jamesshore.com/Blog/Alternatives-to-Acceptance-Testing.html
+* http://xprogramming.com/xpmag/problems-with-acceptance-testing
+* http://blogs.stickyminds.com/Blogs/tabid/91/EntryId/172/The-One-Right-Way.aspx

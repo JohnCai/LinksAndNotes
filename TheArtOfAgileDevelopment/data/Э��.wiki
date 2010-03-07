@@ -1,0 +1,10 @@
+﻿++ 协作
+
+    * [信任] trust
+    * [坐到一起] sitting together
+    * [真实客户参与] real customer involvement
+    * [统一协作语言] ubiquitous language
+    * [站立会议] stand-up meeting
+    * [编码规范] coding standard
+    * [迭代演示] iteration demo
+    * [汇报] report

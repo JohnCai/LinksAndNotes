@@ -1,0 +1,18 @@
+[wiki_db]
+data_dir = data
+
+[main]
+db_pagefile_suffix = .wiki
+footnotes_as_wikiwords = False
+tree_expandednodes_descriptorpathes_main = wikipage/TheArtOfAgileDevelopment,helpernode/main/view,helpernode/propcategory/,helpernode/propcategory/icon,helpernode/propvalue/icon/cog;wikipage/TheArtOfAgileDevelopment,helpernode/main/view,helpernode/main/funcpages;wikipage/TheArtOfAgileDevelopment,wikipage/思考;wikipage/TheArtOfAgileDevelopment,wikipage/协作;wikipage/TheArtOfAgileDevelopment,wikipage/发布;wikipage/TheArtOfAgileDevelopment;wikipage/TheArtOfAgileDevelopment,helpernode/main/view
+last_wiki_word = 迭代演示
+filestorage_identity_moddatemustmatch = False
+filestorage_identity_moddateisenough = False
+tree_last_root_wiki_word = TheArtOfAgileDevelopment
+wiki_database_type = original_sqlite
+wikipagetitleprefix = ++
+filestorage_identity_filenamemustmatch = False
+wiki_name = TheArtOfAgileDevelopment
+further_wiki_words = 
+first_wiki_word = 
+

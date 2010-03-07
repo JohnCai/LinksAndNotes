@@ -1,0 +1,8 @@
+﻿++ 发布
+
+* [Done done]
+* [No bugs]
+* version control
+* ten-minute build
+* continuous integration
+* collective code ownership
