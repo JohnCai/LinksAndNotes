@@ -1,0 +1,23 @@
+﻿++ Links15
+
+till 2010.3.19
+
++++ Domain Model
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/03/10/strengthening-your-domain-encapsulated-collections.aspx
+
+
++++ Unit Test/ Mock
+* http://jonkruger.com/blog/2010/03/12/how-to-use-rhino-mocks-documented-through-tests/
+
++++ Team
+* http://blog.mountaingoatsoftware.com/nine-questions-to-assess-team-structure
+
+
++++ web charting tool
+* http://weblogs.asp.net/scottgu/archive/2008/11/24/new-asp-net-charting-control-lt-asp-chart-runat-quot-server-quot-gt.aspx
+
++++ Web
+* http://msdn.microsoft.com/zh-cn/magazine/ee336022(en-us).aspx
+
++++ MVC
+* http://msdn.microsoft.com/en-us/library/dd410120(VS.100).aspx
