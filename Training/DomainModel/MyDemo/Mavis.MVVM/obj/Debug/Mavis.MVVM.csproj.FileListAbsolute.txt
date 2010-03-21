@@ -1,0 +1,14 @@
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Lib\Mavis\Mavis.MVVM.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Lib\Mavis\Mavis.MVVM.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.MVVM\obj\Debug\ResolveAssemblyReference.cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.MVVM\obj\Debug\Mavis.MVVM.Properties.Resources.resources
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.MVVM\obj\Debug\Mavis.MVVM.csproj.GenerateResource.Cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.MVVM\obj\Debug\Mavis.MVVM.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.MVVM\obj\Debug\Mavis.MVVM.pdb
+E:\Visual Studio 2005 Work Space\MyDemo\Lib\Mavis\Mavis.MVVM.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Lib\Mavis\Mavis.MVVM.pdb
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.Properties.Resources.resources
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.csproj.GenerateResource.Cache
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.pdb

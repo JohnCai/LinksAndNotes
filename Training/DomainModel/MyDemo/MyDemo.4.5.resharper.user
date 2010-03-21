@@ -1,0 +1,171 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DCD6FF05-DA62-4A5A-9D2A-B1BE86E0B9F1/f:SyntaxHelpers.cs" caret="3334" fromTop="20" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:EmployeeTester.cs" caret="114" fromTop="0" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="366" fromTop="11" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="449" fromTop="18" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:PaySystem.cs" caret="491" fromTop="15" />
+      <File id="27AF3C9F-D39E-4656-A605-B2862C24C439/d:ViewModels/f:ViewMode.cs" caret="41" fromTop="2" />
+      <File id="27AF3C9F-D39E-4656-A605-B2862C24C439/d:Commanding/f:DelegateCommand.cs" caret="240" fromTop="10" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="1345" fromTop="27" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1441" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:EmployeeTester.cs" caret="603" fromTop="20" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="508" fromTop="22" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="586" fromTop="22" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:EmployeeTester.cs" caret="1505" fromTop="41" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="187" fromTop="9" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="435" fromTop="17" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="751" fromTop="29" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="95" fromTop="5" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="448" fromTop="19" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="298" fromTop="14" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:PaySystem.cs" caret="305" fromTop="9" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="366" fromTop="11" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:PaySystem.cs" caret="500" fromTop="15" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="241" fromTop="9" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="495" fromTop="23" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="519" fromTop="21" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="695" fromTop="25" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1149" fromTop="35" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="935" fromTop="23" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="1248" fromTop="49" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="315" fromTop="3" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1252" fromTop="22" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1222" fromTop="22" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1772" fromTop="39" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1686" fromTop="35" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1592" fromTop="31" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1593" fromTop="29" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="2377" fromTop="37" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1441" fromTop="21" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="1714" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="25" />
+      <Item value="Test" priority="12" />
+      <Item value="void" priority="16" />
+      <Item value="EmployeeTester" priority="0" />
+      <Item value="employee" priority="13" />
+      <Item value="new" priority="11" />
+      <Item value="Employee" priority="9" />
+      <Item value="string" priority="11" />
+      <Item value="static" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="Assert" priority="1" />
+      <Item value="aString" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="return" priority="3" />
+      <Item value="false" priority="2" />
+      <Item value="Name" priority="4" />
+      <Item value="EmployeeCode" priority="1" />
+      <Item value="private" priority="2" />
+      <Item value="_employee" priority="0" />
+      <Item value="SetUp" priority="1" />
+      <Item value="_employeeSut" priority="3" />
+      <Item value="class" priority="0" />
+      <Item value="enum" priority="2" />
+      <Item value="ctor" priority="2" />
+      <Item value="EmployeeType" priority="4" />
+      <Item value="PaySystemTester" priority="0" />
+      <Item value="_paySystemSut" priority="6" />
+      <Item value="PaySystem" priority="0" />
+      <Item value="PaySystemCode" priority="0" />
+      <Item value="AddRule" priority="1" />
+      <Item value="SimpleRule" priority="1" />
+      <Item value="CreateLambda" priority="0" />
+      <Item value="EmployeeViewModelTester" priority="0" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="_sut" priority="10" />
+      <Item value="EmployeeViewModel" priority="1" />
+      <Item value="ViewModel" priority="0" />
+      <Item value="ViewMode" priority="5" />
+      <Item value="null" priority="2" />
+      <Item value="DelegateCommand" priority="4" />
+      <Item value="CanExecuteDelegate" priority="1" />
+      <Item value="CreateDelegate" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="ExecuteDelegate" priority="1" />
+      <Item value="_editCommand" priority="0" />
+      <Item value="CanExecuteAddCommand" priority="0" />
+      <Item value="ExecuteEditCommand" priority="0" />
+      <Item value="_saveCommand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyDemo.Core.Employee">
+      <Item value="Name" priority="4" />
+      <Item value="IsValid" priority="1" />
+      <Item value="EmployeeType" priority="1" />
+      <Item value="ShouldNotBeNull" priority="0" />
+      <Item value="EmployeeCode" priority="0" />
+      <Item value="ID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldEqual" priority="2" />
+      <Item value="ShouldBeEmpty" priority="0" />
+      <Item value="ShouldBeNullOrEmpty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsTrue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ShouldBeFalse" priority="0" />
+      <Item value="ShouldBeTrue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MyDemo.Core.EmployeeType">
+      <Item value="Salaried" priority="0" />
+      <Item value="Hourly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyDemo.Core.EmployeeType">
+      <Item value="ShouldBeTheSameAs" priority="0" />
+      <Item value="ShouldEqual" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyDemo.Core.PaySystem">
+      <Item value="Name" priority="0" />
+      <Item value="PaySystemCode" priority="0" />
+      <Item value="IsValid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mavis.MVVM.ViewMode">
+      <Item value="ViewOnlyMode" priority="0" />
+      <Item value="ShouldEqual" priority="1" />
+      <Item value="EditMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyDemo.ViewModel.EmployeeViewModel">
+      <Item value="ViewMode" priority="1" />
+      <Item value="SaveCommand" priority="0" />
+      <Item value="CurrentEmployee" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Mavis.MVVM.ViewMode">
+      <Item value="AddMode" priority="1" />
+      <Item value="EditMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mavis.MVVM.DelegateCommand">
+      <Item value="Execute" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ShouldBeGreaterThan" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

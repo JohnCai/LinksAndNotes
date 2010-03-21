@@ -1,0 +1,15 @@
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\Mavis.DataAccess.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\Mavis.DataAccess.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\FluentNHibernate.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\Mavis.Core.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\NHibernate.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\Iesi.Collections.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\log4net.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\NHibernate.xml
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\Iesi.Collections.xml
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\log4net.xml
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\FluentNHibernate.xml
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\bin\Debug\Mavis.Core.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\obj\Debug\Mavis.DataAccess.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.DataAccess\obj\Debug\Mavis.DataAccess.pdb

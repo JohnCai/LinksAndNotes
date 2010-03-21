@@ -1,0 +1,5 @@
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Utility\bin\Debug\Mavis.Utility.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Utility\bin\Debug\Mavis.Utility.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Utility\obj\Debug\ResolveAssemblyReference.cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Utility\obj\Debug\Mavis.Utility.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Utility\obj\Debug\Mavis.Utility.pdb

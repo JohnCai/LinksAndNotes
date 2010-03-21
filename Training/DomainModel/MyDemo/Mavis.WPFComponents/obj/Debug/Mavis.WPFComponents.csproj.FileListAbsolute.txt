@@ -1,0 +1,7 @@
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Lib\Mavis\Mavis.WPFComponents.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Lib\Mavis\Mavis.WPFComponents.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.WPFComponents\obj\Debug\ResolveAssemblyReference.cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.WPFComponents\obj\Debug\Mavis.WPFComponents.Properties.Resources.resources
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.WPFComponents\obj\Debug\Mavis.WPFComponents.csproj.GenerateResource.Cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.WPFComponents\obj\Debug\Mavis.WPFComponents.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.WPFComponents\obj\Debug\Mavis.WPFComponents.pdb

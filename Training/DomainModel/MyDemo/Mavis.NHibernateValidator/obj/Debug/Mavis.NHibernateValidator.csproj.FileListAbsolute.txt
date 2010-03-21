@@ -1,0 +1,13 @@
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\Mavis.NHibernateValidator.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\Mavis.NHibernateValidator.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\Mavis.Core.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\NHibernate.Validator.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\Iesi.Collections.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\log4net.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\Iesi.Collections.xml
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\log4net.xml
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\Mavis.Core.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\bin\Debug\NHibernate.Validator.xml
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\obj\Debug\ResolveAssemblyReference.cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\obj\Debug\Mavis.NHibernateValidator.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.NHibernateValidator\obj\Debug\Mavis.NHibernateValidator.pdb

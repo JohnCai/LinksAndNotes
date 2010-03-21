@@ -1,0 +1,10 @@
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Core\bin\Debug\Mavis.Core.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Core\bin\Debug\Mavis.Core.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Core\obj\Debug\Mavis.Core.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Core\obj\Debug\Mavis.Core.pdb
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Core\bin\Debug\Mavis.Core.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Core\bin\Debug\Mavis.Core.pdb
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Core\obj\Debug\Mavis.Core.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Core\obj\Debug\Mavis.Core.pdb

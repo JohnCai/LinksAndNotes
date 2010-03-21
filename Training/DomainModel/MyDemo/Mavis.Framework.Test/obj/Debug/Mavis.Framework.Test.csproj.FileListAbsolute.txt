@@ -1,0 +1,26 @@
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\Mavis.Framework.Test.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\Mavis.Framework.Test.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\Mavis.MVVM.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\nunit.framework.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\nunit.mocks.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\Microsoft.Practices.Unity.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\Mavis.Core.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\Mavis.MVVM.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\bin\Debug\Mavis.Core.pdb
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\obj\Debug\Mavis.Framework.Test.dll
+E:\works\LonggongMMTest\LonggongMM\trunk\src\Mavis.Framework.Test\obj\Debug\Mavis.Framework.Test.pdb
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.Framework.Test.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.Framework.Test.pdb
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.MVVM.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\nunit.framework.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\nunit.mocks.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.Core.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.MVVM.pdb
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.Core.pdb
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\obj\Debug\Mavis.Framework.Test.dll
+E:\Visual Studio 2005 Work Space\MyDemo\Mavis.Framework.Test\obj\Debug\Mavis.Framework.Test.pdb
