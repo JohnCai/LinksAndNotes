@@ -45,6 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataInterfaces\IEmployeeRepository.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="PaySystem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

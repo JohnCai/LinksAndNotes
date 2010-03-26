@@ -12,3 +12,10 @@ E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.Properti
 E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.csproj.GenerateResource.Cache
 E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.dll
 E:\Visual Studio 2005 Work Space\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.pdb
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Lib\Mavis\Mavis.MVVM.dll
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Lib\Mavis\Mavis.MVVM.pdb
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.MVVM\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.Properties.Resources.resources
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.csproj.GenerateResource.Cache
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.dll
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.MVVM\obj\Debug\Mavis.MVVM.pdb

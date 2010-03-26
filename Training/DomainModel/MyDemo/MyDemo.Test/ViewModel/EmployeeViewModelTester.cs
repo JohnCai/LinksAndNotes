@@ -4,8 +4,10 @@ using System.Linq;
 using System.Text;
 using Mavis.Framework.Test;
 using Mavis.MVVM;
+using MyDemo.Core.DataInterfaces;
 using MyDemo.ViewModel;
 using NUnit.Framework;
+using Rhino.Mocks;
 
 namespace MyDemo.Test.ViewModel
 {
@@ -51,19 +53,31 @@ namespace MyDemo.Test.ViewModel
         }
 
         [Test]
-        public void CanCreateEmployee()
+        public void ShouldSaveToRepositoryWhenExecutingSaveCommand()
         {
-            _sut.AddCommand.Execute(null);
-
-            _sut.CurrentEmployee.Name = "Jack";
-            _sut.CurrentEmployee.EmployeeCode = "1001";
+            IEmployeeRepository employeeRepositoryStub = MockRepository.GenerateStub<IEmployeeRepository>();
+            _sut.EmployeeRepository = employeeRepositoryStub;
+                       
 
             _sut.SaveCommand.Execute(null);
 
-            _sut.CurrentEmployee.ShouldNotBeNull();
-            _sut.CurrentEmployee.Name.ShouldEqual("Jack");
-            _sut.CurrentEmployee.EmployeeCode.ShouldEqual("1001");
-            _sut.CurrentEmployee.ID.ShouldBeGreaterThan(0);
+            employeeRepositoryStub.AssertWasCalled(x => x.SaveOrUpdate(_sut.CurrentEmployee));
         }
+
+        //[Test]
+        //public void CanCreateEmployee()
+        //{
+        //    _sut.AddCommand.Execute(null);
+
+        //    _sut.CurrentEmployee.Name = "Jack";
+        //    _sut.CurrentEmployee.EmployeeCode = "1001";
+
+        //    _sut.SaveCommand.Execute(null);
+
+        //    _sut.CurrentEmployee.ShouldNotBeNull();
+        //    _sut.CurrentEmployee.Name.ShouldEqual("Jack");
+        //    _sut.CurrentEmployee.EmployeeCode.ShouldEqual("1001");
+        //    _sut.CurrentEmployee.ID.ShouldBeGreaterThan(0);
+        //}
     }
 }

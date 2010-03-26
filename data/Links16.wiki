@@ -1,0 +1,18 @@
+﻿++ Links16
+
++++ Agile
+* http://analytical-mind.com/2010/03/01/what-consultants-don%E2%80%99t-tell-you-before-you-begin-an-agile-transition-part-1-impact-on-the-organization/
+* http://blog.gdinwiddie.com/2010/02/16/the-testers-get-behind-at-the-end/
+
++++ Tools
+* http://weblogs.asp.net/rosherove/archive/2010/03/05/nunit-vs-mstest-nunit-wins-for-unit-testing.aspx
+
++++ Lean
+* http://agilesoftwaredevelopment.com/leanprinciples
+* http://blog.agilebuddy.com/2009/07/the-7-software-development-wastes-lean-series-part-1-inprocess-inventory.html
+* http://blog.agilebuddy.com/2009/07/the-7-sofware-development-wastes-lean-series-part-2-overproduction.html
+* http://blog.agilebuddy.com/2009/08/the-7-software-development-wastes-lean-series-part-3-extra-processing.html
+* http://blog.agilebuddy.com/2009/08/the-7-software-development-wastes-lean-series-part-4-transportation-.html
+* http://blog.agilebuddy.com/2009/08/the-7-software-development-wastes-lean-series-part-5-motion.html
+* http://blog.agilebuddy.com/2009/09/the-7-software-development-wastes-lean-series-part-6-delays.html
+* http://blog.agilebuddy.com/2009/10/the-7-software-development-wastes-lean-series-part-7-defects.html

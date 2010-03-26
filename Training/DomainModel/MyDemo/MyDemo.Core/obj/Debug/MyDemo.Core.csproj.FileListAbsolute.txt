@@ -5,3 +5,10 @@ E:\Visual Studio 2005 Work Space\MyDemo\MyDemo.Core\obj\Debug\MyDemo.Core.dll
 E:\Visual Studio 2005 Work Space\MyDemo\MyDemo.Core\obj\Debug\MyDemo.Core.pdb
 E:\Visual Studio 2005 Work Space\MyDemo\MyDemo.Core\bin\Debug\Mavis.Core.dll
 E:\Visual Studio 2005 Work Space\MyDemo\MyDemo.Core\bin\Debug\Mavis.Core.pdb
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Debug\MyDemo.Core.dll
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Debug\MyDemo.Core.pdb
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Debug\Mavis.Core.dll
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Debug\Mavis.Core.pdb
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\MyDemo.Core.dll
+F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\MyDemo.Core.pdb

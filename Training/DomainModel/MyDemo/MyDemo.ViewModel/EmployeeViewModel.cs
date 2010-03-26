@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Mavis.MVVM;
 using MyDemo.Core;
+using MyDemo.Core.DataInterfaces;
 
 namespace MyDemo.ViewModel
 {
@@ -48,6 +49,7 @@ namespace MyDemo.ViewModel
         private void ExecuteSaveCommand()
         {
             ViewMode = ViewMode.ViewOnlyMode;
+            EmployeeRepository.SaveOrUpdate(CurrentEmployee);
         }
 
         private bool CanExecuteAddCommand()
@@ -87,5 +89,7 @@ namespace MyDemo.ViewModel
         }
 
         public Employee CurrentEmployee { get; set; }
+
+        public IEmployeeRepository EmployeeRepository { get; set; }
     }
 }
