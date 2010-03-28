@@ -1,5 +1,5 @@
 ﻿++ Links16
-
+till 2010/03/26
 +++ Agile
 * http://analytical-mind.com/2010/03/01/what-consultants-don%E2%80%99t-tell-you-before-you-begin-an-agile-transition-part-1-impact-on-the-organization/
 * http://blog.gdinwiddie.com/2010/02/16/the-testers-get-behind-at-the-end/

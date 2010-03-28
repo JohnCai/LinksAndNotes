@@ -1,0 +1,36 @@
+﻿++ Notes2010/03/27
+
++++ Map
+* Linq: From var in list Select func
+* C#: ienum.Select(func)
+
++++ Reduce
+* also known as: fold, accumulate, compress, inject.
+* c#: ienum.Aggregate()
+* 
+public static TSource Aggregate<TSource>(this IEnumerable<TSource> source, Func<TSource, TSource, TSource> func)
+{
+    if (source == null)
+    {
+        throw Error.ArgumentNull("source");
+    }
+    if (func == null)
+    {
+        throw Error.ArgumentNull("func");
+    }
+    using (IEnumerator<TSource> enumerator = source.GetEnumerator())
+    {
+        if (!enumerator.MoveNext())
+        {
+            throw Error.NoElements();
+        }
+        TSource current = enumerator.Current;
+        while (enumerator.MoveNext())
+        {
+            current = func(current, enumerator.Current);
+        }
+        return current;
+    }
+}
+
+ 

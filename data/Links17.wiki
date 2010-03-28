@@ -1,0 +1,6 @@
+﻿++ Links17
+
+* http://martinfowler.com/articles/richardsonMaturityModel.html
+* http://jamesshore.com/Blog/Large-Scale-Agile.html
+* 
+* http://artofunittesting.com/Test_Review_Guidelines
