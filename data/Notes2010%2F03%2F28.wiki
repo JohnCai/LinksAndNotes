@@ -1,0 +1,20 @@
+﻿++ Notes2010/03/28
+
++++ DomainService
+* a domain service is a wcf service.
+http://blogs.msdn.com/brada/archive/2009/11/22/ria-services-a-domainservice-is-a-wcf-service-add-service-reference.aspx
+* IgnoreAttribute
+* InvokeAttribute
+
++++ DomainContext
+* GetXXXQuery():EntityQuery
+* Load(EntityQuery)
+* SubmitChanges()
+* RejectChanges()
+* HasChanges
+* EntityContainer
+* The domain context will contain a method for each custom method on the domain service that has a public access modifier and is not marked with the IgnoreAttribute attribute. The generated method in the domain context contains the same name as the method on the domain service. In the client project, you call the method, but the method is not actually executed until SubmitChanges is called. 
+* Invoke Operation
+
++++ Repository Pattern and Domain Service
+* http://blogs.msdn.com/vijayu/archive/2009/06/08/unit-testing-business-logic-in-net-ria-services.aspx

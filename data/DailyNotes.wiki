@@ -12,3 +12,4 @@
 * [Notes20100125] Sql for deadlock
 * [Notes2010/02/11] fearless change
 * [Notes2010/03/27] Map Reduce
+* [Notes2010/03/28] Silverlight, WCF Ria services

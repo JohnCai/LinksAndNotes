@@ -4,3 +4,6 @@
 * http://jamesshore.com/Blog/Large-Scale-Agile.html
 * 
 * http://artofunittesting.com/Test_Review_Guidelines
+* http://www.noop.nl/2008/06/10-principles-of-agile-project-time-management.html
+* http://collectiveedgecoaching.com/2010/01/the-tao-of-scrum-2/
+* http://en.wikipedia.org/wiki/Law_of_Demeter
