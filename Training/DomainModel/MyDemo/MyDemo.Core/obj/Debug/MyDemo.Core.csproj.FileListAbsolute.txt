@@ -12,3 +12,10 @@ F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Deb
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\ResolveAssemblyReference.cache
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\MyDemo.Core.dll
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\MyDemo.Core.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Debug\MyDemo.Core.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Debug\MyDemo.Core.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Debug\Mavis.Core.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.Core\bin\Debug\Mavis.Core.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\MyDemo.Core.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.Core\obj\Debug\MyDemo.Core.pdb

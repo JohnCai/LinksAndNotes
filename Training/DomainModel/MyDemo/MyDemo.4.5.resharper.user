@@ -12,46 +12,64 @@
   <RecentFiles>
     <RecentFiles>
       <File id="DCD6FF05-DA62-4A5A-9D2A-B1BE86E0B9F1/f:SyntaxHelpers.cs" caret="3334" fromTop="20" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:EmployeeTester.cs" caret="114" fromTop="0" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="366" fromTop="11" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="449" fromTop="18" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:PaySystem.cs" caret="491" fromTop="15" />
       <File id="27AF3C9F-D39E-4656-A605-B2862C24C439/d:ViewModels/f:ViewMode.cs" caret="41" fromTop="2" />
       <File id="27AF3C9F-D39E-4656-A605-B2862C24C439/d:Commanding/f:DelegateCommand.cs" caret="240" fromTop="10" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="1345" fromTop="27" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1441" fromTop="21" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Helper/f:EntityIdSetter.cs" caret="118" fromTop="5" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="0" fromTop="0" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="359" fromTop="9" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:PaySystem.cs" caret="480" fromTop="14" />
+      <File id="1B3D16A8-DE9A-4771-85E7-4500782D331D/d:NHibernateMaps/f:EmployeeMap.cs" caret="464" fromTop="13" />
+      <File id="1B3D16A8-DE9A-4771-85E7-4500782D331D/d:NHibernateMaps/f:PaySystemMap.cs" caret="352" fromTop="11" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Data/f:FluentNHibernateMapTester.cs" caret="327" fromTop="12" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Data/f:DataTestBase.cs" caret="744" fromTop="32" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/d:DataInterfaces/f:IEmployeeRepository.cs" caret="125" fromTop="5" />
+      <File id="7257E8E3-8908-4C82-B139-3326E11C43AF/f:NHibernateRepository.cs" caret="729" fromTop="21" />
+      <File id="1B3D16A8-DE9A-4771-85E7-4500782D331D/d:Repositories/f:EmployeeRepository.cs" caret="218" fromTop="8" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Data/f:EmployeeRepositoryTester.cs" caret="911" fromTop="34" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:App.xaml" caret="257" fromTop="7" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:EmployeeViewModel.cs" caret="2094" fromTop="56" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:NHibernate.config" caret="217" fromTop="3" />
+      <File id="d:Miscellaneous Files/f:RunOnce.cs" caret="297" fromTop="14" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:EmployeeShellBuilder.cs" caret="597" fromTop="16" />
+      <File id="d:Miscellaneous Files/f:NHibernateSession.cs" caret="2609" fromTop="14" />
+      <File id="7257E8E3-8908-4C82-B139-3326E11C43AF/f:Repository.cs" caret="3123" fromTop="14" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:App.xaml.cs" caret="590" fromTop="22" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Employee.cs" caret="264" fromTop="10" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:EmployeeTester.cs" caret="0" fromTop="0" />
+      <File id="27AF3C9F-D39E-4656-A605-B2862C24C439/d:ViewModels/f:ViewModelBase.cs" caret="254" fromTop="11" />
+      <File id="69239884-EC53-4E19-B8CC-049EA4C08E84/d:CommonBase/f:NotifierObject.cs" caret="154" fromTop="6" />
     </RecentFiles>
     <RecentEdits>
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:EmployeeTester.cs" caret="603" fromTop="20" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="508" fromTop="22" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="586" fromTop="22" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:EmployeeTester.cs" caret="1505" fromTop="41" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="187" fromTop="9" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="435" fromTop="17" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:PaySystemTester.cs" caret="751" fromTop="29" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="95" fromTop="5" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="448" fromTop="19" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="298" fromTop="14" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:PaySystem.cs" caret="305" fromTop="9" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Class1.cs" caret="366" fromTop="11" />
-      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:PaySystem.cs" caret="500" fromTop="15" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="241" fromTop="9" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="495" fromTop="23" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="519" fromTop="21" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="695" fromTop="25" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1149" fromTop="35" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="935" fromTop="23" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="1248" fromTop="49" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="315" fromTop="3" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1252" fromTop="22" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1222" fromTop="22" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1772" fromTop="39" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1686" fromTop="35" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1592" fromTop="31" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1593" fromTop="29" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="2377" fromTop="37" />
-      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:Class1.cs" caret="1441" fromTop="21" />
-      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:ViewModel/f:EmployeeViewModelTester.cs" caret="1714" fromTop="37" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Data/f:EmployeeRepositoryTester.cs" caret="1138" fromTop="26" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Data/f:EmployeeRepositoryTester.cs" caret="900" fromTop="21" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/d:DataInterfaces/f:IEmployeeRepository.cs" caret="177" fromTop="8" />
+      <File id="1B3D16A8-DE9A-4771-85E7-4500782D331D/d:Repositories/f:EmployeeRepository.cs" caret="200" fromTop="6" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/d:DataInterfaces/f:IEmployeeRepository.cs" caret="177" fromTop="6" />
+      <File id="1B3D16A8-DE9A-4771-85E7-4500782D331D/d:Repositories/f:EmployeeRepository.cs" caret="221" fromTop="8" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Data/f:EmployeeRepositoryTester.cs" caret="397" fromTop="16" />
+      <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Data/f:EmployeeRepositoryTester.cs" caret="683" fromTop="26" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:App.xaml" caret="168" fromTop="2" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:App.xaml" caret="256" fromTop="7" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:App.xaml.cs" caret="1016" fromTop="16" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:App.xaml.cs" caret="914" fromTop="26" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:EmployeeShellBuilder.cs" caret="1809" fromTop="11" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:EmployeeShellBuilder.cs" caret="1441" fromTop="13" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:EmployeeShellBuilder.cs" caret="1313" fromTop="18" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:EmployeeShellBuilder.cs" caret="452" fromTop="11" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:EmployeeShellBuilder.cs" caret="1799" fromTop="31" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:NHibernate.config" caret="1233" fromTop="19" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:EmployeeShellBuilder.cs" caret="1147" fromTop="22" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:EmployeeViewModel.cs" caret="246" fromTop="10" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:EmployeeViewModel.cs" caret="2671" fromTop="86" />
+      <File id="6EA17C64-B921-4407-BAE6-331014F351DA/f:EmployeeViewModel.cs" caret="2901" fromTop="93" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Employee.cs" caret="476" fromTop="14" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Employee.cs" caret="668" fromTop="21" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Employee.cs" caret="737" fromTop="25" />
+      <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Employee.cs" caret="961" fromTop="32" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:NHibernate.config" caret="217" fromTop="3" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:EmployeeShellBuilder.cs" caret="698" fromTop="18" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:App.xaml.cs" caret="140" fromTop="5" />
+      <File id="ED7414A2-0B16-4820-BD4E-DC6FD2862170/f:App.xaml.cs" caret="590" fromTop="22" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
@@ -62,34 +80,34 @@
   </UnitTestRunnerMSTest>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="25" />
-      <Item value="Test" priority="12" />
-      <Item value="void" priority="16" />
+      <Item value="public" priority="33" />
+      <Item value="Test" priority="16" />
+      <Item value="void" priority="24" />
       <Item value="EmployeeTester" priority="0" />
-      <Item value="employee" priority="13" />
-      <Item value="new" priority="11" />
-      <Item value="Employee" priority="9" />
-      <Item value="string" priority="11" />
-      <Item value="static" priority="0" />
-      <Item value="this" priority="0" />
+      <Item value="employee" priority="20" />
+      <Item value="new" priority="25" />
+      <Item value="Employee" priority="15" />
+      <Item value="string" priority="12" />
+      <Item value="static" priority="1" />
+      <Item value="this" priority="1" />
       <Item value="Assert" priority="1" />
       <Item value="aString" priority="0" />
       <Item value="bool" priority="1" />
-      <Item value="return" priority="3" />
-      <Item value="false" priority="2" />
-      <Item value="Name" priority="4" />
-      <Item value="EmployeeCode" priority="1" />
-      <Item value="private" priority="2" />
+      <Item value="return" priority="8" />
+      <Item value="false" priority="3" />
+      <Item value="Name" priority="6" />
+      <Item value="EmployeeCode" priority="3" />
+      <Item value="private" priority="4" />
       <Item value="_employee" priority="0" />
       <Item value="SetUp" priority="1" />
       <Item value="_employeeSut" priority="3" />
       <Item value="class" priority="0" />
       <Item value="enum" priority="2" />
-      <Item value="ctor" priority="2" />
-      <Item value="EmployeeType" priority="4" />
+      <Item value="ctor" priority="6" />
+      <Item value="EmployeeType" priority="7" />
       <Item value="PaySystemTester" priority="0" />
       <Item value="_paySystemSut" priority="6" />
-      <Item value="PaySystem" priority="0" />
+      <Item value="PaySystem" priority="1" />
       <Item value="PaySystemCode" priority="0" />
       <Item value="AddRule" priority="1" />
       <Item value="SimpleRule" priority="1" />
@@ -100,27 +118,87 @@
       <Item value="EmployeeViewModel" priority="1" />
       <Item value="ViewModel" priority="0" />
       <Item value="ViewMode" priority="5" />
-      <Item value="null" priority="2" />
+      <Item value="null" priority="4" />
       <Item value="DelegateCommand" priority="4" />
       <Item value="CanExecuteDelegate" priority="1" />
       <Item value="CreateDelegate" priority="1" />
-      <Item value="true" priority="0" />
+      <Item value="true" priority="2" />
       <Item value="ExecuteDelegate" priority="1" />
       <Item value="_editCommand" priority="0" />
       <Item value="CanExecuteAddCommand" priority="0" />
       <Item value="ExecuteEditCommand" priority="0" />
       <Item value="_saveCommand" priority="0" />
+      <Item value="IEmployeeRepository" priority="1" />
+      <Item value="employeeRepository" priority="1" />
+      <Item value="EmployeeRepository" priority="0" />
+      <Item value="employeeRepositoryStub" priority="1" />
+      <Item value="ID" priority="0" />
+      <Item value="EmployeeType.Salaried" priority="0" />
+      <Item value="TId" priority="0" />
+      <Item value="propertyInfo" priority="1" />
+      <Item value="entity" priority="1" />
+      <Item value="BindingFlags.Public" priority="0" />
+      <Item value="BindingFlags" priority="0" />
+      <Item value="id" priority="1" />
+      <Item value="virtual" priority="3" />
+      <Item value="SimpleSessionStorage" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="if" priority="1" />
+      <Item value="DBFile" priority="1" />
+      <Item value="File" priority="1" />
+      <Item value="config" priority="0" />
+      <Item value="EmployeeMap" priority="1" />
+      <Item value="protected" priority="2" />
+      <Item value="DataTestBase" priority="1" />
+      <Item value="NHibernateSession" priority="2" />
+      <Item value="Session" priority="3" />
+      <Item value="c" priority="4" />
+      <Item value="Id" priority="1" />
+      <Item value="e" priority="5" />
+      <Item value="Map" priority="5" />
+      <Item value="typeof" priority="0" />
+      <Item value="References" priority="0" />
+      <Item value="PersistenceSpecification" priority="0" />
+      <Item value="p" priority="6" />
+      <Item value="TearDown" priority="0" />
+      <Item value="override" priority="2" />
+      <Item value="EmployeeRepositoryTester" priority="0" />
+      <Item value="code" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="_employeeRepositorySut" priority="2" />
+      <Item value="FlushAndClearSession" priority="0" />
+      <Item value="allEmployees" priority="0" />
+      <Item value="var" priority="1" />
+      <Item value="IContainerFacade" priority="0" />
+      <Item value="Window" priority="0" />
+      <Item value="Content" priority="0" />
+      <Item value="DataContext" priority="0" />
+      <Item value="WindowStartupLocation" priority="0" />
+      <Item value="WindowStartupLocation.CenterScreen" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="shellWindow" priority="0" />
+      <Item value="IocContainer" priority="1" />
+      <Item value="Action" priority="0" />
+      <Item value="nHibernateInitializer" priority="0" />
+      <Item value="_simpleSessionStorage" priority="0" />
+      <Item value="FileStyleUriParser" priority="0" />
+      <Item value="obj" priority="0" />
+      <Item value="ViewModelBase" priority="0" />
+      <Item value="NotifyPropertyChanged" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:MyDemo.Core.Employee">
-      <Item value="Name" priority="4" />
+      <Item value="Name" priority="7" />
       <Item value="IsValid" priority="1" />
-      <Item value="EmployeeType" priority="1" />
+      <Item value="EmployeeType" priority="3" />
       <Item value="ShouldNotBeNull" priority="0" />
-      <Item value="EmployeeCode" priority="0" />
-      <Item value="ID" priority="0" />
+      <Item value="EmployeeCode" priority="3" />
+      <Item value="ID" priority="2" />
+      <Item value="PaySystem" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.String">
-      <Item value="ShouldEqual" priority="2" />
+      <Item value="ShouldEqual" priority="4" />
       <Item value="ShouldBeEmpty" priority="0" />
       <Item value="ShouldBeNullOrEmpty" priority="0" />
     </ItemStatistics>
@@ -136,16 +214,17 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:@MyDemo.Core.EmployeeType">
       <Item value="Salaried" priority="0" />
-      <Item value="Hourly" priority="0" />
+      <Item value="Hourly" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:MyDemo.Core.EmployeeType">
       <Item value="ShouldBeTheSameAs" priority="0" />
       <Item value="ShouldEqual" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:MyDemo.Core.PaySystem">
-      <Item value="Name" priority="0" />
-      <Item value="PaySystemCode" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="PaySystemCode" priority="2" />
       <Item value="IsValid" priority="0" />
+      <Item value="ID" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Mavis.MVVM.ViewMode">
       <Item value="ViewOnlyMode" priority="0" />
@@ -166,6 +245,85 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Int32">
       <Item value="ShouldBeGreaterThan" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyDemo.Core.DataInterfaces.IEmployeeRepository">
+      <Item value="Expect" priority="0" />
+      <Item value="SaveOrUpdate" priority="1" />
+      <Item value="Get" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="IgnoreArguments" priority="0" />
+      <Item value="Return" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mavis.Core.IEntity`1">
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.BindingFlags">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.PropertyInfo">
+      <Item value="SetValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MyDemo.Test.Helper.EntityIdSetter">
+      <Item value="SetIdOf" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Mavis.DataAccess.NHibernateSession">
+      <Item value="Init" priority="2" />
+      <Item value="Current" priority="0" />
+      <Item value="Clear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FluentNHibernate.Cfg.Db.SQLiteConfiguration">
+      <Item value="Standard" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.Db.SQLiteConfiguration">
+      <Item value="UsingFile" priority="1" />
+      <Item value="ShowSql" priority="0" />
+      <Item value="InMemory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists" priority="1" />
+      <Item value="Delete" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Testing.PersistenceSpecification`1">
+      <Item value="CheckProperty" priority="6" />
+      <Item value="CheckReference" priority="0" />
+      <Item value="VerifyTheMappings" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.PropertyPart">
+      <Item value="CustomSqlType" priority="3" />
+      <Item value="CustomType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Flush" priority="0" />
+      <Item value="Clear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyDemo.App.EmployeeShellBuilder">
+      <Item value="BuildShell" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mavis.MVVM.IContainerFacade">
+      <Item value="Resolve" priority="0" />
+      <Item value="AddComponent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Mavis.Core.Singleton`1">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mavis.Core.RunOnce">
+      <Item value="Run" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.Tool.hbm2ddl.SchemaExport">
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Data.Binding">
+      <Item value="ValidatesOnDataErrors" priority="1" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

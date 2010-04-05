@@ -8,14 +8,16 @@ using MyDemo.Core.DataInterfaces;
 
 namespace MyDemo.ViewModel
 {
-    public class EmployeeViewModel
+    public class EmployeeViewModel: ViewModelBase
     {
         private DelegateCommand _addCommand;
         private DelegateCommand _editCommand;
         private DelegateCommand _saveCommand;
 
-        public EmployeeViewModel()
+        public EmployeeViewModel(IEmployeeRepository employeeRepository)
         {
+            EmployeeRepository = employeeRepository;
+
             ViewMode = ViewMode.ViewOnlyMode;
 
             _addCommand = new DelegateCommand
@@ -49,7 +51,7 @@ namespace MyDemo.ViewModel
         private void ExecuteSaveCommand()
         {
             ViewMode = ViewMode.ViewOnlyMode;
-            EmployeeRepository.SaveOrUpdate(CurrentEmployee);
+            CurrentEmployee = EmployeeRepository.SaveOrUpdate(CurrentEmployee);
         }
 
         private bool CanExecuteAddCommand()
@@ -88,7 +90,16 @@ namespace MyDemo.ViewModel
             get { return _saveCommand; }
         }
 
-        public Employee CurrentEmployee { get; set; }
+        private Employee _currentEmployee;
+        public Employee CurrentEmployee
+        {
+            get { return _currentEmployee; }
+            set
+            {
+                _currentEmployee = value;
+                NotifyPropertyChanged("CurrentEmployee");
+            }
+        }
 
         public IEmployeeRepository EmployeeRepository { get; set; }
     }

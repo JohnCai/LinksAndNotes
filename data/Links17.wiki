@@ -1,9 +1,26 @@
 ﻿++ Links17
 
++++ Web
 * http://martinfowler.com/articles/richardsonMaturityModel.html
-* http://jamesshore.com/Blog/Large-Scale-Agile.html
-* 
+* http://www.crummy.com/writing/speaking/2008-QCon/act3.html
+* http://www.infoq.com/news/2010/03/RESTLevels
+* http://elegantcode.com/2010/03/30/your-javascript-goes-where/
+
++++ Test
 * http://artofunittesting.com/Test_Review_Guidelines
+
++++ Agile/Scrum
+* http://jamesshore.com/Blog/Large-Scale-Agile.html
 * http://www.noop.nl/2008/06/10-principles-of-agile-project-time-management.html
 * http://collectiveedgecoaching.com/2010/01/the-tao-of-scrum-2/
+
++++ OO
 * http://en.wikipedia.org/wiki/Law_of_Demeter
+
++++ Strengthen your domain
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/03/24/strengthening-your-domain-encapsulating-operations.aspx
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/03/30/strengthening-your-domain-the-double-dispatch-pattern.aspx
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/03/31/strengthening-your-domain-avoiding-setters.aspx
+
++++ Patterns
+* http://www.cnblogs.com/idior/archive/2006/03/10/325036.html  double dispatch and visitor

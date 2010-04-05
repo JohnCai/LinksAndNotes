@@ -13,3 +13,8 @@ F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.Core\bin\Debu
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.Core\obj\Debug\ResolveAssemblyReference.cache
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.Core\obj\Debug\Mavis.Core.dll
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.Core\obj\Debug\Mavis.Core.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Core\bin\Debug\Mavis.Core.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Core\bin\Debug\Mavis.Core.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Core\obj\Debug\Mavis.Core.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Core\obj\Debug\Mavis.Core.pdb

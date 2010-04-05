@@ -12,13 +12,31 @@ namespace MyDemo.Core
             AddRule(new SimpleRule("EmployeeCode", "EmployeeCode should not be empty!", () => string.IsNullOrEmpty(EmployeeCode)));
         }
 
-        public string Name { get; set; }
+        private string _name;
+        public virtual string Name
+        {
+            get { return _name; }
+            set
+            {
+                _name = value;
+                NotifyPropertyChanged("Name");
+            }
+        }
 
-        public string EmployeeCode { get; set; }
+        private string _employeeCode;
+        public virtual string EmployeeCode
+        {
+            get { return _employeeCode; }
+            set
+            {
+                _employeeCode = value;
+                NotifyPropertyChanged("EmployeeCode");
+            }
+        }
 
-        public EmployeeType EmployeeType { get; set; }
+        public virtual EmployeeType EmployeeType { get; set; }
 
-        public PaySystem PaySystem { get; set; }
+        public virtual PaySystem PaySystem { get; set; }
     }
 
     public enum EmployeeType

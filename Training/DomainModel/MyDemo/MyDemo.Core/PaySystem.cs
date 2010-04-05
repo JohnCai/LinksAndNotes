@@ -10,9 +10,9 @@ namespace MyDemo.Core
             AddRule(new SimpleRule("PaySystemCode", "PaySystemCode should not be Empty!", () => string.IsNullOrEmpty(PaySystemCode)));
         }
 
-        public string PaySystemCode { get; set; }
+        public virtual string PaySystemCode { get; set; }
 
-        public string Name { get; set; }
+        public virtual string Name { get; set; }
         
     }
 }

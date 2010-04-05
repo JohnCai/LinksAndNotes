@@ -1,8 +1,9 @@
+using System.Collections.Generic;
+using Mavis.Core;
+
 namespace MyDemo.Core.DataInterfaces
 {
-    public interface IEmployeeRepository
+    public interface IEmployeeRepository: INHibernateRepository<Employee>
     {
-
-        object SaveOrUpdate(Employee employee);
     }
 }

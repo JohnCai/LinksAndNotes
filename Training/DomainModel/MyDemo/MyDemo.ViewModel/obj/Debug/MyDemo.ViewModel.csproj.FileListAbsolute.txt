@@ -24,3 +24,16 @@ F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bi
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.ViewModel\obj\Debug\ResolveAssemblyReference.cache
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.ViewModel\obj\Debug\MyDemo.ViewModel.dll
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\MyDemo.ViewModel\obj\Debug\MyDemo.ViewModel.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\MyDemo.ViewModel.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\MyDemo.ViewModel.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\Mavis.Core.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\Mavis.MVVM.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\MyDemo.Core.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\Mavis.MVVM.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\MyDemo.Core.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\bin\Debug\Mavis.Core.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\obj\Debug\ResolveAssemblyReference.cache
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\obj\Debug\MyDemo.ViewModel.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\MyDemo.ViewModel\obj\Debug\MyDemo.ViewModel.pdb

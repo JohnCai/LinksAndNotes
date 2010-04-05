@@ -1,13 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Mavis.Framework.Test;
 using Mavis.MVVM;
 using MyDemo.Core.DataInterfaces;
+using MyDemo.Test.Helper;
 using MyDemo.ViewModel;
 using NUnit.Framework;
 using Rhino.Mocks;
+using MyDemo.Core;
 
 namespace MyDemo.Test.ViewModel
 {
@@ -19,7 +18,28 @@ namespace MyDemo.Test.ViewModel
         [SetUp]
         public void SetUp()
         {
-            _sut = new EmployeeViewModel();
+            _sut = new EmployeeViewModel(CreateStubRepository());
+        }
+
+        private IEmployeeRepository CreateStubRepository()
+        {
+            IEmployeeRepository employeeRepositoryStub = MockRepository.GenerateStub<IEmployeeRepository>();
+
+            employeeRepositoryStub.Expect(x => x.SaveOrUpdate(null)).IgnoreArguments().Return(CreateStubEmployee());
+
+            return employeeRepositoryStub;
+        }
+
+        private Employee CreateStubEmployee()
+        {
+            Employee employee = new Employee
+                                    {
+                                        EmployeeCode = "1001",
+                                        Name = "Jack"
+                                    };
+            EntityIdSetter.SetIdOf(employee, 1);
+
+            return employee;
         }
 
         [Test]
@@ -53,31 +73,19 @@ namespace MyDemo.Test.ViewModel
         }
 
         [Test]
-        public void ShouldSaveToRepositoryWhenExecutingSaveCommand()
+        public void CanCreateEmployee()
         {
-            IEmployeeRepository employeeRepositoryStub = MockRepository.GenerateStub<IEmployeeRepository>();
-            _sut.EmployeeRepository = employeeRepositoryStub;
-                       
+            _sut.AddCommand.Execute(null);
+
+            _sut.CurrentEmployee.Name = "Jack";
+            _sut.CurrentEmployee.EmployeeCode = "1001";
 
             _sut.SaveCommand.Execute(null);
 
-            employeeRepositoryStub.AssertWasCalled(x => x.SaveOrUpdate(_sut.CurrentEmployee));
+            _sut.CurrentEmployee.ShouldNotBeNull();
+            _sut.CurrentEmployee.Name.ShouldEqual("Jack");
+            _sut.CurrentEmployee.EmployeeCode.ShouldEqual("1001");
+            _sut.CurrentEmployee.ID.ShouldBeGreaterThan(0);
         }
-
-        //[Test]
-        //public void CanCreateEmployee()
-        //{
-        //    _sut.AddCommand.Execute(null);
-
-        //    _sut.CurrentEmployee.Name = "Jack";
-        //    _sut.CurrentEmployee.EmployeeCode = "1001";
-
-        //    _sut.SaveCommand.Execute(null);
-
-        //    _sut.CurrentEmployee.ShouldNotBeNull();
-        //    _sut.CurrentEmployee.Name.ShouldEqual("Jack");
-        //    _sut.CurrentEmployee.EmployeeCode.ShouldEqual("1001");
-        //    _sut.CurrentEmployee.ID.ShouldBeGreaterThan(0);
-        //}
     }
 }

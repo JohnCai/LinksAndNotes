@@ -37,3 +37,16 @@ F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.Framework.Tes
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.Framework.Test\obj\Debug\ResolveAssemblyReference.cache
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.Framework.Test\obj\Debug\Mavis.Framework.Test.dll
 F:\Personal\MyWiki\LinksAndNotes\Training\DomainModel\MyDemo\Mavis.Framework.Test\obj\Debug\Mavis.Framework.Test.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.Framework.Test.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.Framework.Test.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.MVVM.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\nunit.framework.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\nunit.mocks.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.Core.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.MVVM.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\bin\Debug\Mavis.Core.pdb
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\obj\Debug\ResolveAssemblyReference.cache
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\obj\Debug\Mavis.Framework.Test.dll
+E:\Books\MyWikiNotes\Notes\Training\DomainModel\MyDemo\Mavis.Framework.Test\obj\Debug\Mavis.Framework.Test.pdb

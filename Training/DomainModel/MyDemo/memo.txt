@@ -1,0 +1,42 @@
+EmployeeViewModelTester
+	Should be in viewonly mode by default
+	Should be in add mode after executing add command
+	Should be in edit mode after executing edit command
+	Should be in viewonly mode after executing save command
+	--Should save to repository when executing save command
+	
+	CanCreateEmployee
+
+MapTester
+	DataTestBase
+	Add Mavis.DataAccess
+	Add System.Data.Sqlite
+
+NHibernateSession.Init<EmployeeMap>(new SimpleSessionStorage(),
+                                                SQLiteConfiguration.Standard.UsingFile(DBFile).ShowSql(),
+                                                BuildSchema);
+private void BuildSchema(Configuration config)
+        {
+            if (File.Exists(DBFile))
+            {
+                File.Delete(DBFile);
+            }
+            new SchemaExport(config).Create(false, true);
+        }
+
+Session
+
+PersistenceSpecification<>.CheckProperty.VerifyTheMappings()
+
+EmployeeRepositoryTester 
+	CanGetAll: Inherited from INHibernateRepository<Employee>
+	CanGetOne
+
+
+App:
+ prepare sql
+ prepare database
+ prepare NHibernate.config
+
+Draw A View
+OnStartUp
