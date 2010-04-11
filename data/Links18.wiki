@@ -1,0 +1,9 @@
+﻿++ Links18
+
++++ RX
+* http://codebetter.com/blogs/matthew.podwysocki/archive/2010/03/17/the-reactive-extensions-for-javascript-released.aspx
+* http://msdn.microsoft.com/en-us/devlabs/ee794896.aspx
+
++++ BDD
+* http://codebetter.com/blogs/ian_cooper/archive/2009/03/31/seizing-the-bdd-nettle.aspx
+* http://codebetter.com/blogs/ian_cooper/archive/2010/04/09/where-we-are-with-acceptance-testing-and-our-bdd-journey-today.aspx

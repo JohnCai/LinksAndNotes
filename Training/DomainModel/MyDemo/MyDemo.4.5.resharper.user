@@ -37,7 +37,7 @@
       <File id="9209CC60-37EE-4BCD-B14B-98FF079BF6F4/f:Employee.cs" caret="264" fromTop="10" />
       <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Core/f:EmployeeTester.cs" caret="0" fromTop="0" />
       <File id="27AF3C9F-D39E-4656-A605-B2862C24C439/d:ViewModels/f:ViewModelBase.cs" caret="254" fromTop="11" />
-      <File id="69239884-EC53-4E19-B8CC-049EA4C08E84/d:CommonBase/f:NotifierObject.cs" caret="154" fromTop="6" />
+      <File id="69239884-EC53-4E19-B8CC-049EA4C08E84/d:CommonBase/f:NotifierObject.cs" caret="809" fromTop="28" />
     </RecentFiles>
     <RecentEdits>
       <File id="D023F78B-57AF-47F6-8AD6-7B0178892573/d:Data/f:EmployeeRepositoryTester.cs" caret="1138" fromTop="26" />
