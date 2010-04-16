@@ -7,3 +7,6 @@
 +++ BDD
 * http://codebetter.com/blogs/ian_cooper/archive/2009/03/31/seizing-the-bdd-nettle.aspx
 * http://codebetter.com/blogs/ian_cooper/archive/2010/04/09/where-we-are-with-acceptance-testing-and-our-bdd-journey-today.aspx
+
++++ Pattern
+* http://www.lostechies.com/blogs/derickbailey/archive/2009/12/22/understanding-the-application-controller-through-object-messaging-patterns.aspx
