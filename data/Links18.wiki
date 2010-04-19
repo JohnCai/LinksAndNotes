@@ -4,9 +4,36 @@
 * http://codebetter.com/blogs/matthew.podwysocki/archive/2010/03/17/the-reactive-extensions-for-javascript-released.aspx
 * http://msdn.microsoft.com/en-us/devlabs/ee794896.aspx
 
-+++ BDD
++++ BDD/TDD
 * http://codebetter.com/blogs/ian_cooper/archive/2009/03/31/seizing-the-bdd-nettle.aspx
 * http://codebetter.com/blogs/ian_cooper/archive/2010/04/09/where-we-are-with-acceptance-testing-and-our-bdd-journey-today.aspx
+* http://codebetter.com/blogs/markhneedham/archive/2010/04/01/tdd-consistent-test-structure.aspx
 
 +++ Pattern
 * http://www.lostechies.com/blogs/derickbailey/archive/2009/12/22/understanding-the-application-controller-through-object-messaging-patterns.aspx
+
++++ Leadership
+* http://littletutorials.com/2008/07/07/success-as-technical-lead/
+* http://codebetter.com/blogs/markhneedham/archive/2010/04/01/how-i-learned-to-let-my-workers-lead.aspx
+* http://people.wku.edu/rich.patterson/CFS-452/Readings/stayer.htm
+
+
++++ Tools
+* http://www.noupe.com/javascript/jquery-html-table-toolbox.html
+
++++ Aglile/Scrum
+* http://jkwerner2.wordpress.com/2010/03/23/so-that-so-what/
+
++++ Techical
+* http://www.codeproject.com/KB/architecture/exceptionbestpractices.aspx
+* http://codebetter.com/blogs/patricksmacchia/archive/2010/04/06/windows-programming-the-quot-it-works-on-my-machine-quot-syndroma.aspx
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/04/08/strengthening-your-domain-domain-events.aspx
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/04/14/injecting-services-into-entities.aspx
+* http://geekswithblogs.net/michelotti/archive/2009/10/25/asp.net-mvc-view-model-patterns.aspx
+* http://blog.jorritsalverda.nl/2010/03/03/maintainable-mvc-series-viewmodel-and-formmodel/
+* http://blogs.msdn.com/simonince/archive/2010/01/26/view-models-in-asp-net-mvc.aspx
+* http://elegantcode.com/2007/10/30/nhibernate-projections/
+* http://www.wintellect.com/CS/blogs/jlikness/archive/2010/04/14/model-view-viewmodel-mvvm-explained.aspx
+
++++ CM
+* http://www.lostechies.com/blogs/derickbailey/archive/2010/04/06/branching-strategies-handling-dependencies-between-branches.aspx

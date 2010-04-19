@@ -24,3 +24,6 @@ BDD /story teller
 JqGrid
 MVC
 ROR
+
+AutoMapper
+dose ViewModel know DomainModel?
