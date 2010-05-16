@@ -1,0 +1,19 @@
+﻿boy++ Links19
+
+* http://developerart.com/publications/4/wise-programming-techniques-for-writing-quality-code
+
++++ Agile
+* http://www.xqa.com.ar/visualmanagement/2009/08/scrum-of-scrums-making-it-visual/ 
+* http://www.xqa.com.ar/visualmanagement/2009/02/visual-management-for-agile-teams/
+* http://agilecoach.typepad.com/agile-coaching/2010/05/building-an-agile-environment.html
+* http://blogs.agilefaqs.com/2010/04/30/explosion-of-agile-practices/
+* http://www.orgsem.org/papers/13.pdf system metaphor
+* http://www.rallydev.com/agileblog/2010/03/78-things-i-have-learned-in-6-years-of-agile-coaching/
+
++++ Code
+* http://www.globalnerdy.com/2010/05/09/new-programming-jargon/
+* http://reprog.wordpress.com/2010/04/25/writing-correct-code-part-1-invariants-binary-search-part-4a/
+* http://www.informit.com/articles/printerfriendly.aspx?p=1404056  Design Patterns 15 Years Later
+* 
++++ Career
+* http://www.developsense.com/blog/2010/05/testers-get-out-of-the-quality-assurance-business/
