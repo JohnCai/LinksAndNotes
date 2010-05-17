@@ -9,6 +9,7 @@
 * http://blogs.agilefaqs.com/2010/04/30/explosion-of-agile-practices/
 * http://www.orgsem.org/papers/13.pdf system metaphor
 * http://www.rallydev.com/agileblog/2010/03/78-things-i-have-learned-in-6-years-of-agile-coaching/
+* http://www.infoq.com/resource/articles/scaling-lean-agile-feature-teams/en/resources/feature%20teams_%20infoq_%20final.pdf  Feature Teams
 
 +++ Code
 * http://www.globalnerdy.com/2010/05/09/new-programming-jargon/
