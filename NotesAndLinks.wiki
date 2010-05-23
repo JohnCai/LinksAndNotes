@@ -4,7 +4,7 @@ data_dir = data
 [main]
 footnotes_as_wikiwords = False
 tree_expandednodes_rememberduration = 2
-last_wiki_word = Links19
+last_wiki_word = Links20
 hotkey_showhide_bywiki = 
 log_window_autoshow = Gray
 export_default_dir = 

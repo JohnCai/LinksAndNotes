@@ -1,0 +1,6 @@
+﻿++ Links20
+
+* http://www.akshell.com/docs/0.2/intro/
+* http://setandbma.wordpress.com/2010/05/20/what-software-development-should-not-learn-from-manufacturing/
+* http://www.infoq.com/presentations/Code-Leaders-Beautiful-Teams
+* http://www.infoq.com/presentations/lean-conf-keynote

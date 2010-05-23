@@ -10,11 +10,13 @@
 * http://www.orgsem.org/papers/13.pdf system metaphor
 * http://www.rallydev.com/agileblog/2010/03/78-things-i-have-learned-in-6-years-of-agile-coaching/
 * http://www.infoq.com/resource/articles/scaling-lean-agile-feature-teams/en/resources/feature%20teams_%20infoq_%20final.pdf  Feature Teams
+* http://www.infoq.com/articles/real-options-enhance-agility
 
 +++ Code
 * http://www.globalnerdy.com/2010/05/09/new-programming-jargon/
 * http://reprog.wordpress.com/2010/04/25/writing-correct-code-part-1-invariants-binary-search-part-4a/
 * http://www.informit.com/articles/printerfriendly.aspx?p=1404056  Design Patterns 15 Years Later
+* http://www.udidahan.com/2009/09/01/dont-delete-just-dont/
 * 
 +++ Career
 * http://www.developsense.com/blog/2010/05/testers-get-out-of-the-quality-assurance-business/
