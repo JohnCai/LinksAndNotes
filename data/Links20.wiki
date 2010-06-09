@@ -2,5 +2,15 @@
 
 * http://www.akshell.com/docs/0.2/intro/
 * http://setandbma.wordpress.com/2010/05/20/what-software-development-should-not-learn-from-manufacturing/
-* http://www.infoq.com/presentations/Code-Leaders-Beautiful-Teams
 * http://www.infoq.com/presentations/lean-conf-keynote
+* http://www.infoq.com/cn/articles/cohn-chapter8
+* http://www.infoq.com/articles/architecting-tekpub
+* http://www.infoq.com/news/2010/05/Raven
+* http://www.lostechies.com/blogs/jimmy_bogard/archive/2010/05/12/starting-and-using-git-successfully.aspx
+* http://progit.org/book/
+* http://casualjim.github.com/caricature/
+* http://marklunds.com/rails101
+* http://en.wikipedia.org/wiki/Immutable_object
+* http://www.infoq.com/cn/news/2010/05/sufficient-design
+* http://lemonodor.com/archives/2007/10/youre_doing_it_wrong.html
+* http://ayende.com/Blog/archive/2010/04/20/that-no-sql-thing-the-relational-modeling-anti-pattern-in.aspx

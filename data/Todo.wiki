@@ -11,6 +11,15 @@ http://users.rcn.com/jcoplien/Patterns/Top10OrgPatterns.html
 http://codebetter.com/blogs/gregyoung/archive/2010/02/16/cqrs-task-based-uis-event-sourcing-agh.aspx
 http://codebetter.com/blogs/gregyoung/archive/2010/02/13/cqrs-and-event-sourcing.aspx
 
+
+http://www.infoq.com/presentations/Robert-C.-Martin-Bad-Code
+http://www.infoq.com/presentations/From-Development-To-Production
+http://www.infoq.com/presentations/hall-testing-with-ruby
+http://www.infoq.com/presentations/Code-Leaders-Beautiful-Teams
+http://www.infoq.com/presentations/The-State-of-the-Art-on-.NET
+
+http://marklunds.com/rails101
+
 MEF
 
 Git in daily work

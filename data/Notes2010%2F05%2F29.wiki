@@ -1,0 +1,15 @@
+﻿++ Notes2010/05/29
+
++++ MVC ROR
+* ASP.NET MVC and .NET are very lacking in some areas that are very important to us. The testing story on .NET is not the best, you have to jump through a lot of hoops to design your application in the right way to handle testing and then writing the tests themselves is not as clean or usable as some other languages. One of the other areas of high friction was deployment, there are ways to handle it in .NET but nothing as nice or clean as Capistrano.
+* We moved to Rails 2.3.5 using MongoMapper against MongoDB. We have a reporting setup that uses MySQL to track stuff we need to report on which uses DataMapper. We also plugged in New Relic RPM to keep track of our site and it's health - all of this is less than 1% of what it would have cost us, on average, with BizSpark. 
+* This solved all of our issues around licensing, we pay about $80/month for a large Ubuntu instance on Amazon EC2, after the reserved instance fee. It’s a technology that both Rob and I really enjoy working with, we have great testing with Cucumber, and deployments with Capistrano are simple and easy. 
+* from http://www.infoq.com/articles/architecting-tekpub
+
+
+
++++ serializer deep clone
+* http://james.newtonking.com/projects/json-net.aspx
+* http://james.newtonking.com/archive/2010/01/01/net-serialization-performance-comparison.aspx
+* http://www.csharp411.com/c-object-clone-wars/
+* http://github.com/havard/copyable
