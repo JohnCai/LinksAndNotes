@@ -1,0 +1,5 @@
+﻿++ Notes2010/08/15
++++ Ruby hpricot nokogiri mechanize
+* http://www.javaeye.com/topic/736159
+* http://mechanize.rubyforge.org/mechanize/
+* Nokogiri: http://Nokogiri.org
